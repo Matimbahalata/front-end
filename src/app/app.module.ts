@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { NothandoComponent } from './nothando/nothando.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NothandoComponent
   ],
   imports: [
     BrowserModule,
