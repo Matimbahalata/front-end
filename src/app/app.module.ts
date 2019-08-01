@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 <<<<<<< HEAD
 import { NothandoComponent } from './nothando/nothando.component';
 import { MatimbaComponent } from './matimba/matimba.component';
+import { ContactusComponent } from './contactus/contactus.component';
 =======
 import { HomeComponent } from './home/home.component';
 >>>>>>> 71976bc48b6c78342e4137630cb166642e707231
@@ -15,7 +16,8 @@ import { HomeComponent } from './home/home.component';
     AppComponent,
 <<<<<<< HEAD
     NothandoComponent,
-MatimbaComponent
+MatimbaComponent,
+ContactusComponent
 =======
     HomeComponent
 >>>>>>> 71976bc48b6c78342e4137630cb166642e707231
