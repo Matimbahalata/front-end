@@ -8,6 +8,8 @@ import { AppComponent } from './app.component';
 <<<<<<< HEAD
 import { NothandoComponent } from './nothando/nothando.component';
 import { MatimbaComponent } from './matimba/matimba.component';
+import { LoginComponent } from './login/login.component';
+import { SandileComponent } from './sandile/sandile.component';
 =======
 import { HomeComponent } from './home/home.component';
 >>>>>>> 71976bc48b6c78342e4137630cb166642e707231
@@ -25,7 +27,9 @@ import { MandyComponent } from './mandy/mandy.component';
 <<<<<<< HEAD
 <<<<<<< HEAD
     NothandoComponent,
-MatimbaComponent
+MatimbaComponent,
+LoginComponent,
+SandileComponent
 =======
     HomeComponent
 >>>>>>> 71976bc48b6c78342e4137630cb166642e707231
